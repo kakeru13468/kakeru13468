@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kakeru</h1>
+<h1 align="center">Hi 👋, I'm Kakeru</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/kakeru13468?tab=repositories](https://github.com/kakeru13468?tab=repositories)
